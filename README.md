@@ -1,16 +1,14 @@
-### Hi there 👋
+## Eduardo Reichert :man_technologist:
 
-<!--
-**edrdesigner/edrdesigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/edrdesigner)](https://github.com/edrdesigner)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-reichert/)](https://www.linkedin.com/in/eduardo-reichert/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edrdesigner@gmail.com)](mailto:edrdesigner@gmail.com)
 
-Here are some ideas to get you started:
+### Hello! 👋 Welcome to my github profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I´m a front-end developer 
+
+ - 💜 In love with React, React Native and Node
+ - 🚀 Currently learning and improving skills with the @rocketseat community (Javascript, TypeScript and more)
+ - 🔭 I’m currently working at WealthSystems
+ - 🎨 Sometimes I design sites/apps/logos 
