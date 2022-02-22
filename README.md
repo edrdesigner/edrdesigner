@@ -10,5 +10,6 @@ I´m a front-end developer
 
  - 💜 In love with React, React Native and Node
  - 🚀 Currently learning and improving skills with  @rocketseat community (Javascript, TypeScript and more)
- - 🔭 I’m currently working at WealthSystems
+ - 🔭 I’m currently working at @TOTVS
  - 🎨 Sometimes I design sites/apps/logos 
+ - ₿ I have an interest in crypto and blockchain techology
