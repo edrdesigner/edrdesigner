@@ -12,4 +12,4 @@ I´m a front-end developer
  - 🚀 Currently learning and improving skills with  @rocketseat community (Javascript, TypeScript and more)
  - 🔭 I’m currently working at @TOTVS
  - 🎨 Sometimes I design sites/apps/logos 
- - ₿ I have an interest in crypto and blockchain techology
+ - ₿ I have some interest in blockchain technology
