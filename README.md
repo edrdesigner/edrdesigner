@@ -1,8 +1,8 @@
 # Hi 👋 I'm Eduardo Reichert
 
-**`Software developer `**  with 8+ years of experience building web and mobile applications.
+**`Frontend & Mobile Developer`**  specializing in React and React Native.
 
-Experienced in modern JavaScript ecosystems, with strong expertise in React and React Native. I design scalable applications and build production-ready solutions used in real business environments.
+Experienced in modern JavaScript, with strong expertise in React and React Native. I design scalable applications and build production-ready solutions used in real business environments.
 
 ### 📫 Contact
 
@@ -16,7 +16,7 @@ Experienced in modern JavaScript ecosystems, with strong expertise in React and 
 
 ---
 
-### 🤖 Stack
+### ⚙️ Tech Stack
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 16px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="typescript logo"  />
@@ -43,7 +43,7 @@ Experienced in modern JavaScript ecosystems, with strong expertise in React and 
 
 **Front-end:** React, Next.js, JavaScript, TypeScript, Redux, Mobx, TailwindCSS, Chakra UI, Material UI, React Hook Form, Axios, React Query.
 <br />
-**Mobile:** React Native, Expo, React Navigation, Async Storage, Zustand, Reanimated, and more.
+**Mobile:** React Native, Expo, React Navigation, Async Storage, Zustand, Reanimated libraries and related mobile libraries.
 <br />
 **Back-end:** Node.js, Express, AdonisJS, Prisma, PostgreSQL, MongoDB, MySQL, AWS, DigitalOcean, Docker, NextAuth, REST APIs, and more.
 <br />
@@ -51,12 +51,7 @@ Experienced in modern JavaScript ecosystems, with strong expertise in React and 
 <br />
 **Tools:** Visual Studio Code, Figma, Trello, Notion, Jira, ClickUp, and Clockify.
 
----
+## 🚀 Current Focus
 
-### 📊 GitHub Stats
-<div>
-  <a href="https://github.com/edrdesigner">
-  <img height="180em" src="https://github-readme-stats-eta-nine-58.vercel.app/api?username=edrdesigner&theme=algolia&count_private=true&include_all_commits=true&hide_border=true&show_icons=true"></img>
-  <img height="180em" src="https://github-readme-stats-eta-nine-58.vercel.app/api/top-langs/?username=edrdesigner&layout=compact&langs_count=7&theme=algolia&hide_border=true&locale=en"/>
-  </a>
-</div>
+- Improving mobile performance and application architecture.
+- Exploring scalable backend and cloud infrastructure.
