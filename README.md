@@ -1,10 +1,3 @@
-# 👨🏻‍💻 Eduardo Reichert
-
-
-
-Software developer focused on building web and mobile applications, with strong experience in JavaScript and modern React ecosystems. 
-
-My work involves improving product architecture, implementing new features, writing unit tests, and building applications that deliver strong performance, reliability, and user experience. I have experience working across frontend, mobile, and cloud-based systems, using technologies such as React, React Native, Node.js, and modern JavaScript tools.
 # Hi 👋 I'm Eduardo Reichert
 
 **`Software developer `**  with 6+ years of experience building web and mobile applications.
