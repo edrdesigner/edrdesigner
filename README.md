@@ -2,7 +2,7 @@
 
 **`Frontend & Mobile Developer`**  specializing in React and React Native.
 
-Experienced in modern JavaScript, with strong expertise in React and React Native. I design scalable applications and build production-ready solutions used in real business environments.
+Experienced in modern JavaScript ecosystem, with strong expertise in React and React Native. I design scalable applications and build production-ready solutions used in real business environments.
 
 ### 📫 Contact
 
