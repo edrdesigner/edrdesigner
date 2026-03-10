@@ -1,6 +1,6 @@
 # Hi 👋 I'm Eduardo Reichert
 
-**`Software developer `**  with 6+ years of experience building web and mobile applications.
+**`Software developer `**  with 8+ years of experience building web and mobile applications.
 
 Experienced in modern JavaScript ecosystems, with strong expertise in React and React Native. I design scalable applications and build production-ready solutions used in real business environments.
 
